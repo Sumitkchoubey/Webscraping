@@ -1,0 +1,6 @@
+fake-useragent
+unicodecsv
+requests
+selenium
+pandas
+bs4
